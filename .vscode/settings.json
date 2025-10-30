@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "util.h": "c",
+    "action_layer.h": "c"
+  }
+}
